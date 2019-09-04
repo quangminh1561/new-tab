@@ -1,4 +1,4 @@
-const YOUR_NAME = 'Nano';
+const YOUR_NAME = 'Quang Minh';
 const FILE_NAME = 'background.jpg';
 
 const $ = document.querySelector.bind(document);
