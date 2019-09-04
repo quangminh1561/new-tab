@@ -1,5 +1,5 @@
-const YOUR_NAME = 'Nano';
-const FILE_NAME = 'background.jpg';
+const YOUR_NAME = 'Quang Minh';
+const FILE_NAME = 'wallpaper-4k-hinh-nen-4k-thiet-ke-cuc-dep_101257772.jpg';
 
 const $ = document.querySelector.bind(document);
 
